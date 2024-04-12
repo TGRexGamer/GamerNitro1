@@ -2,6 +2,12 @@ Probably the best "Nitro plugin" out there.
 
 GamerNitro is a feature-rich BetterDiscord plugin designed to enhance your Discord experience. This plugin offers various functionality such as customizable screensharing quality, emoji bypasses, profile accents, client themes, and more!
 
+
+
+
+INFO: It only works if you don't have Nitro!!
+
+
 Table of Contents:
 
 - Features
