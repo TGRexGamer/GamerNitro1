@@ -59,7 +59,7 @@ Download Better Discord: https://betterdiscord.app/
 
 
 Gehe zum Profil
-Gehe zu (Dekoration ändern [GamerNitro]
+Gehe zu ( Dekoration ändern oder auch Effect [GamerNitro]
 
 
 ![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/d74d190d-daed-440b-a2fb-e1e3161c8ae7)
