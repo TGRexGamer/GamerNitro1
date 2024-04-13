@@ -58,7 +58,7 @@ Download Better Discord: https://betterdiscord.app/
 ![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/54d55736-30e7-479e-a3c6-87b7efa7246c)
 ![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/8bcfe70b-82d1-4643-92b7-34323e130787)
 ![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/837c4650-da81-4a5d-8283-162bae01f7c0)
-![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/d5db8a16-6267-407b-980d-cdd3e3ea0f55)
+![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/7128b12b-72fd-45f3-babc-d166b76e9648)
 
 
 
