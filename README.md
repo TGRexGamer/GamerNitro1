@@ -84,7 +84,7 @@ Gleiches gilt für die Effekte
 Das heißt, wenn Sie es kopiert haben, gehen Sie zu „Über mich“ und geben Sie ein ! und dann mit STRG + V einfügen und speichern
 
 
-ERGEBNISS!!!!!
+ERGEBNIS!!!!!
 
 
 
