@@ -55,10 +55,10 @@ Download Better Discord: https://betterdiscord.app/
 10. Aktivieren Sie
 
 
-![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/3299cd7c-76e9-47b5-b7f8-96bb35b94a89)
+![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/7ddbfad7-1279-4401-84bc-fb88e6686451)
 ![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/8bcfe70b-82d1-4643-92b7-34323e130787)
-![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/5d3b51de-1822-43ad-a705-41247930562d)
-![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/95e4c43a-a034-4cf7-9fab-6ca49f6bdcd0)
+![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/837c4650-da81-4a5d-8283-162bae01f7c0)
+![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/d5db8a16-6267-407b-980d-cdd3e3ea0f55)
 
 
 
