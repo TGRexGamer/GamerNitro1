@@ -1,14 +1,10 @@
- the best "GamerNitro plugin"
+das beste „GamerNitro-Plugin“
 
-GamerNitro is a feature-rich BetterDiscord plugin designed to enhance your Discord experience. This plugin offers various functionality such as customizable screensharing quality, emoji bypasses, profile accents, client themes, and more!
-
-
+GamerNitro ist ein funktionsreiches BetterDiscord-Plugin, das Ihr Discord-Erlebnis verbessern soll. Dieses Plugin bietet verschiedene Funktionen wie anpassbare Screensharing-Qualität, Emoji-Umgehungen, Profilakzente, Kundenthemen und mehr!
 
 
-INFO: It only works if you don't have Nitro!!
+Inhaltsverzeichnis:
 
-
-Table of Contents:
 
 - Features
 - Custom Screenshare, FPS, Bitrate
@@ -36,53 +32,78 @@ Table of Contents:
 
 Download Better Discord: https://betterdiscord.app/
 
-1. Install Better Discord
+1. Installieren Sie Better Discord
 
-2. Discord will Auto Restart
+2. Discord wird automatisch neu gestartet
 
-3. Goto Settings
+3. Gehen Sie zu Einstellungen
 
-4. Goto Plugins
+4. Gehen Sie zu Plugins
 
-5. Open The Folder
+5. Öffnen Sie den Ordner
 
-6. Insert the plugin
+6. Fügen Sie das Plugin ein
 
-  ONLY THE PLUGIN [ GamerNitro.plugin and OPluginLibrary.plugin ]
+   NUR DAS PLUGIN [GamerNitro.plugin und OPluginLibrary.plugin]
 
-7. And now it's inside
+7. Und jetzt ist es drinnen
 
-10. Activate 
+10. Aktivieren Sie
+
 
 ![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/3299cd7c-76e9-47b5-b7f8-96bb35b94a89)
 ![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/8bcfe70b-82d1-4643-92b7-34323e130787)
 ![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/5d3b51de-1822-43ad-a705-41247930562d)
 ![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/95e4c43a-a034-4cf7-9fab-6ca49f6bdcd0)
 
-Miscellaneous -> Change Premium Type
+Sonstiges -> Prämientyp ändern
 
-Profile -> Profile Accents
+Profil -> Profilakzente
 
 
-Goto Profile
-Goto ( Change Decoration [GamerNitro]
+Gehe zum Profil
+Gehe zu (Dekoration ändern [GamerNitro]
 
 
 ![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/d74d190d-daed-440b-a2fb-e1e3161c8ae7)
 
 ![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/1c2249ec-3f1b-45f5-bd7b-e5288ae88f5f)
 
-Click on one and it will be copied
+Klicken Sie auf eines und es wird kopiert
 
-Example
+Gehen sie dann zu ihrer "Über Mich" Beschreibung 
+
+Beispiel
 
 ! 󠀯󠁡󠀰
 
 ![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/e18e8615-94d0-4054-acbb-92a6dd0420da)
 
 
-It will be displayed invisibly
+Es wird unsichtbar angezeigt
 
-The same applies to effect
+Gleiches gilt für die Effekte
 
-Means if you have copied it go to your "About Me" and enter ! and then paste it with CTRL + V and save it
+Das heißt, wenn Sie es kopiert haben, gehen Sie zu „Über mich“ und geben Sie ein ! und dann mit STRG + V einfügen und speichern
+
+
+ERGEBNISS!!!!!
+
+
+
+
+
+
+
+
+![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/02e43065-43eb-477c-a157-cde3e824479e)
+
+![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/e4b960ef-f1b7-44a8-b0c9-405f06b23588)
+
+![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/0269e0e8-0dab-4b17-94a7-b94994302403)
+
+
+
+
+
+
