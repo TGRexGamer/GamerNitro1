@@ -56,9 +56,6 @@ Download Better Discord: https://betterdiscord.app/
 ![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/5d3b51de-1822-43ad-a705-41247930562d)
 ![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/95e4c43a-a034-4cf7-9fab-6ca49f6bdcd0)
 
-Sonstiges -> Prämientyp ändern
-
-Profil -> Profilakzente
 
 
 Gehe zum Profil
