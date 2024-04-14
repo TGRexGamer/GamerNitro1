@@ -88,6 +88,34 @@ Gleiches gilt für die Effekte
 Das heißt, wenn Sie es kopiert haben, gehen Sie zu „Über mich“ und geben Sie ein ! und dann mit STRG + V einfügen und speichern
 
 
+
+Zuletzt Banner
+
+Gehen sie zu Imgur: https://imgur.com
+
+Wählen sie Egal welches da aus Kopieren sie den Link
+
+![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/4d84e7ec-e4f3-4ef5-a878-4f7c39186017)
+
+
+Gehen sie Danach zu Ihren Einstellungen bei Discord und danach auf Profile
+
+Dann Gehen sie zu:
+
+![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/61f4d677-01b3-4afe-9b67-c8fae121a29d)
+
+
+Da Kopieren sie den Link Rein:
+
+![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/d9f69555-284b-4fc7-91ac-91a75d5e9399)
+
+Gehen Sie Danach auf Copy Banner 3y3
+
+![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/8ca7df45-c0a9-4f81-8d0d-3e36efede3c1)
+
+
+Danach gehen sie Zu "Über Mich" Beschreibung und Füge es ein Und Dann Speicher sie es und schon haben sie es
+
 ERGEBNIS!!!!!
 
 
@@ -103,6 +131,7 @@ ERGEBNIS!!!!!
 
 ![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/0269e0e8-0dab-4b17-94a7-b94994302403)
 
+![image](https://github.com/TGRexGamer/GamerNitro1/assets/166856873/59be14f0-dabb-493b-b6df-38b711502568)
 
 
 
