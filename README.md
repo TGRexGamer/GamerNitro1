@@ -7,32 +7,6 @@ INFO 1: FUNKTIONIERT NUR WENN SIE KEIN DISCORD NITRO HABEN!
 
 INFO 2: DAS KOPIEREN UND/ODER ÄNDERN DES SCRIPTS IST NICHT ERLAUBT [ NUR MIT ERLAUBNIS !! ]
 
-Inhaltsverzeichnis:
-
-
-- Features
-- Custom Screenshare, FPS, Bitrate
-- Emoji Bypasses
-- Upload Emotes
-- Ghost Mode
-- Classic Mode
-- Profile
-- Profile Accents for All Users
-- Fake Profile Themes
-- Fake Profile Banners
-- Fake Avatar Decorations
-- Fake Profile Effects
-- Fake Profile Pictures
-- Miscellaneous
-- Nitro Client Themes
-- Remove Screenshare Nitro Upsell
-- FAQ (read this before asking!)
-- Reporting Issues
-- Contributing
-- Special Thanks
-- Additional Plugins I Recommend
-- License Agreement
-
 
 Download Better Discord: https://betterdiscord.app/
 
