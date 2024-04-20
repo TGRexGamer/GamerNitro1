@@ -22,8 +22,6 @@ Download Better Discord: https://betterdiscord.app/
 
 6. Fügen Sie das Plugin ein
 
-   NUR DAS PLUGIN [GamerNitro.plugin, OPluginLibrary.plugin und GamerNitro.config]
-
 7. Und jetzt ist es drinnen
 
 10. Aktivieren Sie
